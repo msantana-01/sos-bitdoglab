@@ -50,7 +50,7 @@ Este projeto implementa a transmissão do sinal **SOS** em código Morse utiliza
 - Escolha de mensagens personalizadas para transmissão.
 - Controle do LED via comunicação serial.
 - Uso de interrupções para maior eficiência.
-- Adição de um display OLED para mostrar o código Morse transmitido.
+- Utilização do display OLED para mostrar o código Morse transmitido.
 
 ---
 
